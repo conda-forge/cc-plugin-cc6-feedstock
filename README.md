@@ -144,4 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@larsbuntemeyer](https://github.com/larsbuntemeyer/)
+* [@sol1105](https://github.com/sol1105/)
 

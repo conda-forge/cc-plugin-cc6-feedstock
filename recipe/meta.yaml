@@ -29,6 +29,7 @@ requirements:
     - netcdf4
     - pandas
     - xarray
+    - pooch
 
 test:
   imports:

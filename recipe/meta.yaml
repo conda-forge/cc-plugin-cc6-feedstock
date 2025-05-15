@@ -1,4 +1,3 @@
-{% set python_min = "3.10" %}
 {% set name = "cc-plugin-cc6" %}
 {% set version = "0.2.0" %}
 

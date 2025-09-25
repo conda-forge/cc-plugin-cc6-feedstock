@@ -1,6 +1,6 @@
 {% set python_min = "3.10" %}
 {% set name = "cc-plugin-cc6" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 05791697c072308aca6a492f4252c8cf33638176f0a9f43c2e06ad23eab2a1a7
+  sha256: 3085c852bae37b6304fbe6300ce61b11049c4895cee4a7743026954f993e74e3
 
 build:
   noarch: python
